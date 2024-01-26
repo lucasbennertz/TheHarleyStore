@@ -125,7 +125,8 @@
     section.historia {
         background-color: white;
         border: 5px solid black;
-        height: 75%px;
+        height: 75%;
+        padding: 5px;
     }
 
     h3.resumo {
